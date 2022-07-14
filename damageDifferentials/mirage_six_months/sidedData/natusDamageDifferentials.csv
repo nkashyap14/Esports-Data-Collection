@@ -1,0 +1,657 @@
+,Location,Player,Kills,Deaths,K/D,Damage Dealt,Damage Taken,Damage Differential,Side,Total Rounds
+0,Ticketbooth ,Simple,12,8,4,1106,831,275,CT,217
+1,Ticketbooth ,Simple,2,1,1,200,122,78,T,217
+2,Default A,Simple,5,1,4,466,108,358,CT,217
+3,Default A,Simple,5,2,3,433,286,147,T,217
+4,A Ramp,Simple,1,0,1,100,1,99,CT,217
+5,A Ramp,Simple,6,4,2,593,453,140,T,217
+6,Bottom Stairs,Simple,4,2,2,283,230,53,CT,217
+7,Bottom Stairs,Simple,7,3,4,505,466,39,T,217
+8,Top Balcony,Simple,3,2,1,136,207,-71,CT,217
+9,Top Balcony,Simple,3,3,0,378,313,65,T,217
+10,Triple Box,Simple,7,3,4,588,447,141,CT,217
+11,Triple Box,Simple,0,2,-2,78,144,-66,T,217
+12,Deep Jungle,Simple,4,3,1,440,297,143,CT,217
+13,Deep Jungle,Simple,2,2,0,164,179,-15,T,217
+14,Top Mid Left Side,Simple,0,0,0,0,0,0,CT,217
+15,Top Mid Left Side,Simple,4,3,1,499,371,128,T,217
+16,Snipers Nest,Simple,3,3,0,449,300,149,CT,217
+17,Snipers Nest,Simple,1,0,1,100,0,100,T,217
+18,T Palace Stairs Peek,Simple,0,0,0,0,0,0,CT,217
+19,T Palace Stairs Peek,Simple,0,6,-6,58,601,-543,T,217
+20,CT Catwalk,Simple,3,3,0,273,292,-19,CT,217
+21,CT Catwalk,Simple,1,0,1,14,0,14,T,217
+22,CT Deep Catwalk Mid peek,Simple,1,1,0,138,83,55,CT,217
+23,CT Deep Catwalk Mid peek,Simple,0,1,-1,0,100,-100,T,217
+24,Catwalk T Aparments Peek,Simple,3,0,3,227,80,147,CT,217
+25,Catwalk T Aparments Peek,Simple,0,1,-1,0,77,-77,T,217
+26,CT Side Apps,Simple,0,0,0,0,0,0,CT,217
+27,CT Side Apps,Simple,4,0,4,356,54,302,T,217
+28,A Site Exposed to Stairs Connector Cat,Simple,1,2,-1,100,197,-97,CT,217
+29,A Site Exposed to Stairs Connector Cat,Simple,3,0,3,273,159,114,T,217
+30,Deep Catwalk,Simple,0,3,-3,137,300,-163,CT,217
+31,Deep Catwalk,Simple,2,2,0,166,263,-97,T,217
+32,Close Market door,Simple,4,4,0,463,434,29,CT,217
+33,Close Market door,Simple,1,1,0,100,100,0,T,217
+34,A Site,Simple,0,0,0,15,0,15,CT,217
+35,A Site,Simple,1,2,-1,114,324,-210,T,217
+36,Mid Close Connector,Simple,2,1,1,231,100,131,CT,217
+37,Mid Close Connector,Simple,2,2,0,165,220,-55,T,217
+38,Tetris,Simple,1,0,1,68,0,68,CT,217
+39,Tetris,Simple,2,2,0,130,278,-148,T,217
+40,Deep CT,Simple,0,1,-1,64,113,-49,CT,217
+41,Deep CT,Simple,0,0,0,0,0,0,T,217
+42,Underneath B apps plat,Simple,0,0,0,84,117,-33,CT,217
+43,Underneath B apps plat,Simple,1,0,1,100,64,36,T,217
+44,Snipers Palace Peek,Simple,2,2,0,247,265,-18,CT,217
+45,Snipers Palace Peek,Simple,0,0,0,0,0,0,T,217
+46,Close A Ramp,Simple,0,0,0,0,0,0,CT,217
+47,Close A Ramp,Simple,0,1,-1,0,33,-33,T,217
+48,Left Side Platform,Simple,1,1,0,100,100,0,CT,217
+49,Left Side Platform,Simple,1,2,-1,57,112,-55,T,217
+50,Right Side Connector,Simple,1,2,-1,100,213,-113,CT,217
+51,Right Side Connector,Simple,1,0,1,100,0,100,T,217
+52,Jungle Plant,Simple,0,0,0,0,0,0,CT,217
+53,Jungle Plant,Simple,0,3,-3,0,151,-151,T,217
+54,Back Left B Site From T's' Perspective,Simple,2,2,0,131,193,-62,CT,217
+55,Back Left B Site From T's' Perspective,Simple,0,0,0,0,0,0,T,217
+56,Firebox,Simple,0,1,-1,0,100,-100,CT,217
+57,Firebox,Simple,2,0,2,173,39,134,T,217
+58,Catwalk Connector Peek,Simple,2,2,0,235,332,-97,CT,217
+59,Catwalk Connector Peek,Simple,2,2,0,200,222,-22,T,217
+60,Market Window Peek,Simple,3,3,0,222,300,-78,CT,217
+61,Market Window Peek,Simple,0,0,0,0,0,0,T,217
+62,Deep Palace,Simple,1,0,1,76,81,-5,CT,217
+63,Deep Palace,Simple,2,1,1,200,100,100,T,217
+64,Underpass,Simple,0,1,-1,0,77,-77,CT,217
+65,Underpass,Simple,2,2,0,210,200,10,T,217
+66,market,Simple,3,3,0,390,330,60,CT,217
+67,market,Simple,0,0,0,0,0,0,T,217
+68,Sandwhich,Simple,0,0,0,0,0,0,CT,217
+69,Sandwhich,Simple,0,1,-1,93,143,-50,T,217
+70,Bottom Mid Ladder Room Peek,Simple,1,1,0,158,143,15,CT,217
+71,Bottom Mid Ladder Room Peek,Simple,0,1,-1,0,100,-100,T,217
+72,B site Market Plant,Simple,0,1,-1,0,97,-97,CT,217
+73,B site Market Plant,Simple,1,0,1,100,54,46,T,217
+74,Leftside Connector,Simple,1,1,0,164,119,45,CT,217
+75,Leftside Connector,Simple,1,0,1,100,0,100,T,217
+76,Bottom Connector,Simple,1,1,0,8,12,-4,CT,217
+77,Bottom Connector,Simple,2,0,2,126,0,126,T,217
+78,Bench,Simple,4,2,2,220,233,-13,CT,217
+79,Bench,Simple,0,0,0,0,0,0,T,217
+80,Top STairs,Simple,1,0,1,7,0,7,CT,217
+81,Top STairs,Simple,1,0,1,100,8,92,T,217
+82,Arch,Simple,0,0,0,0,0,0,CT,217
+83,Arch,Simple,0,1,-1,0,100,-100,T,217
+84,Top Connector,Simple,1,1,0,122,73,49,CT,217
+85,Top Connector,Simple,3,0,3,300,48,252,T,217
+86,Stairs Palace Peek,Simple,2,2,0,178,211,-33,CT,217
+87,Stairs Palace Peek,Simple,0,0,0,0,0,0,T,217
+88,Close Left CT A Ramp,Simple,0,0,0,0,0,0,CT,217
+89,Close Left CT A Ramp,Simple,0,2,-2,83,78,5,T,217
+90,CT Outside Market,Simple,2,2,0,175,108,67,CT,217
+91,CT Outside Market,Simple,0,0,0,0,0,0,T,217
+92,B Bombsite Cross to Catwalk,Simple,0,0,0,0,0,0,CT,217
+93,B Bombsite Cross to Catwalk,Simple,1,1,0,100,100,0,T,217
+94,Catwalk Plant B Site,Simple,0,0,0,0,0,0,CT,217
+95,Catwalk Plant B Site,Simple,0,1,-1,0,100,-100,T,217
+96,Chair,Simple,0,0,0,0,0,0,CT,217
+97,Chair,Simple,0,1,-1,0,100,-100,T,217
+98,Top Mid Catwalk,Simple,1,1,0,95,73,22,CT,217
+99,Top Mid Catwalk,Simple,0,1,-1,0,100,-100,T,217
+100,Back Right B Site from T's Perspective,Simple,3,2,1,205,200,5,CT,217
+101,Back Right B Site from T's Perspective,Simple,0,0,0,0,0,0,T,217
+102,Deep T Apps,Simple,0,0,0,0,0,0,CT,217
+103,Deep T Apps,Simple,3,0,3,348,146,202,T,217
+104,Under balcony,Simple,0,1,-1,56,1,55,CT,217
+105,Under balcony,Simple,1,0,1,66,0,66,T,217
+106,Left Side corner deep jungle,Simple,0,0,0,0,22,-22,CT,217
+107,Left Side corner deep jungle,Simple,0,0,0,0,0,0,T,217
+108,Van Barrel Peek,Simple,0,0,0,0,0,0,CT,217
+109,Van Barrel Peek,Simple,0,1,-1,59,48,11,T,217
+110,T Spawn A Ramp,Simple,1,0,1,100,13,87,CT,217
+111,T Spawn A Ramp,Simple,3,1,2,296,311,-15,T,217
+112,Top Mid,Simple,0,0,0,0,0,0,CT,217
+113,Top Mid,Simple,0,1,-1,0,64,-64,T,217
+114,Back B Site Peeking Apps/Plat,Simple,0,0,0,0,0,0,CT,217
+115,Back B Site Peeking Apps/Plat,Simple,4,1,3,402,135,267,T,217
+116,Right Side Platform,Simple,0,0,0,0,0,0,CT,217
+117,Right Side Platform,Simple,3,0,3,246,31,215,T,217
+118,Register Market,Simple,1,0,1,14,0,14,CT,217
+119,Register Market,Simple,0,0,0,0,0,0,T,217
+120,Forest,Simple,0,1,-1,0,31,-31,CT,217
+121,Forest,Simple,0,0,0,0,0,0,T,217
+122,Close Right Market Window,Simple,0,1,-1,0,100,-100,CT,217
+123,Close Right Market Window,Simple,1,0,1,100,0,100,T,217
+124,BackofB,Simple,0,1,-1,0,39,-39,CT,217
+125,BackofB,Simple,0,0,0,0,0,0,T,217
+126,Top Mid towards Apps,Simple,0,0,0,0,0,0,CT,217
+127,Top Mid towards Apps,Simple,0,0,0,0,0,0,T,217
+128,Top Mid Boxes Left Side Peek,Simple,0,0,0,0,0,0,CT,217
+129,Top Mid Boxes Left Side Peek,Simple,0,1,-1,0,100,-100,T,217
+130,T Spawn,Simple,0,0,0,0,0,0,CT,217
+131,T Spawn,Simple,1,0,1,100,0,100,T,217
+132,Apartments Right CT Corner,Simple,0,0,0,0,0,0,CT,217
+133,Apartments Right CT Corner,Simple,0,1,-1,0,100,-100,T,217
+134,Ladder Room Catwalk Side,Simple,1,1,0,53,100,-47,CT,217
+135,Ladder Room Catwalk Side,Simple,0,0,0,0,0,0,T,217
+136,Bench Closer to Tribox,Simple,0,0,0,0,5,-5,CT,217
+137,Bench Closer to Tribox,Simple,0,0,0,0,0,0,T,217
+138,CT Left Side,Simple,1,1,0,92,109,-17,CT,217
+139,CT Left Side,Simple,0,0,0,0,0,0,T,217
+140,Murder Hole,Simple,2,1,1,193,100,93,CT,217
+141,Murder Hole,Simple,1,0,1,100,0,100,T,217
+142,Ninja,Simple,2,0,2,84,61,23,CT,217
+143,Ninja,Simple,0,0,0,0,0,0,T,217
+144,Stairs Smoke Platform,Simple,0,0,0,0,0,0,CT,217
+145,Stairs Smoke Platform,Simple,0,0,0,0,8,-8,T,217
+146,Safe Plant B Site,Simple,0,0,0,0,0,0,CT,217
+147,Safe Plant B Site,Simple,0,1,-1,27,92,-65,T,217
+148,Right Side Snipers Nest,Simple,0,1,-1,0,100,-100,CT,217
+149,Right Side Snipers Nest,Simple,0,0,0,0,0,0,T,217
+150,Bottom Stairs,Boombl4,7,5,2,586,744,-158,CT,217
+151,Bottom Stairs,Boombl4,1,7,-6,206,562,-356,T,217
+152,Default A,Boombl4,7,5,2,683,520,163,CT,217
+153,Default A,Boombl4,0,1,-1,22,99,-77,T,217
+154,Ticketbooth ,Boombl4,8,7,1,1050,927,123,CT,217
+155,Ticketbooth ,Boombl4,0,0,0,0,0,0,T,217
+156,Triple Box,Boombl4,5,4,1,618,372,246,CT,217
+157,Triple Box,Boombl4,0,3,-3,58,256,-198,T,217
+158,A Site,Boombl4,3,5,-2,372,379,-7,CT,217
+159,A Site,Boombl4,2,1,1,138,205,-67,T,217
+160,A Ramp,Boombl4,2,3,-1,213,388,-175,CT,217
+161,A Ramp,Boombl4,8,3,5,824,326,498,T,217
+162,Close A Ramp,Boombl4,1,3,-2,100,307,-207,CT,217
+163,Close A Ramp,Boombl4,2,3,-1,208,213,-5,T,217
+164,Deep Jungle,Boombl4,1,0,1,100,0,100,CT,217
+165,Deep Jungle,Boombl4,6,4,2,565,521,44,T,217
+166,Top Mid,Boombl4,1,3,-2,146,212,-66,CT,217
+167,Top Mid,Boombl4,1,4,-3,140,389,-249,T,217
+168,A Site Exposed to Stairs Connector Cat,Boombl4,1,4,-3,74,427,-353,CT,217
+169,A Site Exposed to Stairs Connector Cat,Boombl4,0,3,-3,84,307,-223,T,217
+170,Top Connector,Boombl4,0,1,-1,0,41,-41,CT,217
+171,Top Connector,Boombl4,1,3,-2,21,250,-229,T,217
+172,Top Mid Left Side,Boombl4,0,0,0,0,0,0,CT,217
+173,Top Mid Left Side,Boombl4,5,7,-2,520,1199,-679,T,217
+174,Deep Catwalk,Boombl4,0,0,0,0,84,-84,CT,217
+175,Deep Catwalk,Boombl4,5,2,3,444,203,241,T,217
+176,Tetris,Boombl4,3,4,-1,413,456,-43,CT,217
+177,Tetris,Boombl4,2,1,1,238,278,-40,T,217
+178,Top Balcony,Boombl4,3,2,1,302,285,17,CT,217
+179,Top Balcony,Boombl4,0,0,0,0,0,0,T,217
+180,Mid Close Connector,Boombl4,2,1,1,134,154,-20,CT,217
+181,Mid Close Connector,Boombl4,3,3,0,456,313,143,T,217
+182,Close Left CT A Ramp,Boombl4,4,2,2,452,282,170,CT,217
+183,Close Left CT A Ramp,Boombl4,0,0,0,0,0,0,T,217
+184,Underneath B apps plat,Boombl4,0,0,0,0,0,0,CT,217
+185,Underneath B apps plat,Boombl4,1,1,0,24,100,-76,T,217
+186,Catwalk Connector Peek,Boombl4,0,0,0,0,0,0,CT,217
+187,Catwalk Connector Peek,Boombl4,0,4,-4,27,423,-396,T,217
+188,Jungle Plant,Boombl4,0,0,0,0,0,0,CT,217
+189,Jungle Plant,Boombl4,0,3,-3,0,113,-113,T,217
+190,Sandwhich,Boombl4,1,1,0,100,100,0,CT,217
+191,Sandwhich,Boombl4,1,1,0,95,100,-5,T,217
+192,T Spawn A Ramp,Boombl4,1,0,1,73,0,73,CT,217
+193,T Spawn A Ramp,Boombl4,0,1,-1,14,100,-86,T,217
+194,Deep Palace,Boombl4,2,3,-1,253,381,-128,CT,217
+195,Deep Palace,Boombl4,0,0,0,14,0,14,T,217
+196,Close Market door,Boombl4,0,2,-2,67,237,-170,CT,217
+197,Close Market door,Boombl4,0,0,0,0,0,0,T,217
+198,Left Side Platform,Boombl4,0,1,-1,0,46,-46,CT,217
+199,Left Side Platform,Boombl4,0,1,-1,0,17,-17,T,217
+200,CT Catwalk,Boombl4,1,0,1,68,24,44,CT,217
+201,CT Catwalk,Boombl4,2,4,-2,200,286,-86,T,217
+202,T Palace Stairs Peek,Boombl4,1,2,-1,118,254,-136,CT,217
+203,T Palace Stairs Peek,Boombl4,1,0,1,84,0,84,T,217
+204,Snipers Nest,Boombl4,1,0,1,100,0,100,CT,217
+205,Snipers Nest,Boombl4,0,2,-2,54,257,-203,T,217
+206,Bench,Boombl4,1,2,-1,21,66,-45,CT,217
+207,Bench,Boombl4,0,1,-1,0,100,-100,T,217
+208,B Bombsite Cross to Catwalk,Boombl4,2,1,1,83,153,-70,CT,217
+209,B Bombsite Cross to Catwalk,Boombl4,2,0,2,152,42,110,T,217
+210,Top Mid Catwalk,Boombl4,1,0,1,100,0,100,CT,217
+211,Top Mid Catwalk,Boombl4,0,3,-3,53,232,-179,T,217
+212,B Site Default Plant,Boombl4,0,0,0,0,0,0,CT,217
+213,B Site Default Plant,Boombl4,0,0,0,0,0,0,T,217
+214,Close Right Market Window,Boombl4,2,0,2,174,0,174,CT,217
+215,Close Right Market Window,Boombl4,2,1,1,200,102,98,T,217
+216,Balcony Boaxes,Boombl4,2,2,0,240,200,40,CT,217
+217,Balcony Boaxes,Boombl4,0,0,0,0,0,0,T,217
+218,Deep CT,Boombl4,0,1,-1,0,129,-129,CT,217
+219,Deep CT,Boombl4,0,0,0,0,0,0,T,217
+220,Top STairs,Boombl4,0,0,0,0,85,-85,CT,217
+221,Top STairs,Boombl4,0,0,0,0,0,0,T,217
+222,Bottom Connector,Boombl4,0,0,0,0,50,-50,CT,217
+223,Bottom Connector,Boombl4,1,0,1,100,0,100,T,217
+224,Deep T Apps,Boombl4,0,0,0,0,0,0,CT,217
+225,Deep T Apps,Boombl4,2,0,2,211,103,108,T,217
+226,Bench Closer to Tribox,Boombl4,2,0,2,191,56,135,CT,217
+227,Bench Closer to Tribox,Boombl4,1,1,0,77,100,-23,T,217
+228,B site Market Plant,Boombl4,0,0,0,0,0,0,CT,217
+229,B site Market Plant,Boombl4,0,1,-1,0,79,-79,T,217
+230,Connector behind box,Boombl4,0,0,0,0,0,0,CT,217
+231,Connector behind box,Boombl4,0,0,0,0,0,0,T,217
+232,Under balcony,Boombl4,0,2,-2,26,230,-204,CT,217
+233,Under balcony,Boombl4,0,0,0,0,0,0,T,217
+234,T Deep Apps Underpass/Apps Peek,Boombl4,0,0,0,0,0,0,CT,217
+235,T Deep Apps Underpass/Apps Peek,Boombl4,0,1,-1,83,77,6,T,217
+236,Back B Site Peeking Apps/Plat,Boombl4,0,0,0,0,0,0,CT,217
+237,Back B Site Peeking Apps/Plat,Boombl4,0,0,0,0,0,0,T,217
+238,Top Mid Boxes Left Side Peek,Boombl4,0,0,0,0,0,0,CT,217
+239,Top Mid Boxes Left Side Peek,Boombl4,1,2,-1,100,174,-74,T,217
+240,Firebox,Boombl4,1,0,1,164,51,113,CT,217
+241,Firebox,Boombl4,0,0,0,0,0,0,T,217
+242,CT Side Apps,Boombl4,0,0,0,0,0,0,CT,217
+243,CT Side Apps,Boombl4,0,0,0,0,0,0,T,217
+244,Behind Big Boxes,Boombl4,0,0,0,0,0,0,CT,217
+245,Behind Big Boxes,Boombl4,0,1,-1,0,221,-221,T,217
+246,Snipers Palace Peek,Boombl4,0,0,0,0,0,0,CT,217
+247,Snipers Palace Peek,Boombl4,1,1,0,126,31,95,T,217
+248,Register Market,Boombl4,0,1,-1,0,0,0,CT,217
+249,Register Market,Boombl4,0,0,0,0,0,0,T,217
+250,Top Mid towards Apps,Boombl4,0,0,0,0,0,0,CT,217
+251,Top Mid towards Apps,Boombl4,0,1,-1,40,100,-60,T,217
+252,Stairs Palace Peek,Boombl4,0,1,-1,0,75,-75,CT,217
+253,Stairs Palace Peek,Boombl4,0,0,0,0,0,0,T,217
+254,Catwalk T Aparments Peek,Boombl4,0,0,0,0,0,0,CT,217
+255,Catwalk T Aparments Peek,Boombl4,1,1,0,135,272,-137,T,217
+256,Bench Closer To Jungle,Boombl4,0,0,0,0,0,0,CT,217
+257,Bench Closer To Jungle,Boombl4,0,1,-1,0,100,-100,T,217
+258,Forest,Boombl4,0,0,0,0,0,0,CT,217
+259,Forest,Boombl4,0,1,-1,22,45,-23,T,217
+260,Back Left B Site From T's' Perspective,Boombl4,0,1,-1,0,8,-8,CT,217
+261,Back Left B Site From T's' Perspective,Boombl4,0,0,0,0,0,0,T,217
+262,Right Side Connector,Boombl4,0,0,0,0,0,0,CT,217
+263,Right Side Connector,Boombl4,0,1,-1,82,100,-18,T,217
+264,CT Deep Catwalk Mid peek,Boombl4,1,0,1,142,52,90,CT,217
+265,CT Deep Catwalk Mid peek,Boombl4,1,1,0,100,25,75,T,217
+266,Leftside Connector,Boombl4,0,1,-1,11,5,6,CT,217
+267,Leftside Connector,Boombl4,1,0,1,100,0,100,T,217
+268,Catwalk Plant B Site,Boombl4,0,0,0,0,0,0,CT,217
+269,Catwalk Plant B Site,Boombl4,1,0,1,100,0,100,T,217
+270,T Spawn,Boombl4,0,0,0,0,0,0,CT,217
+271,T Spawn,Boombl4,0,1,-1,0,95,-95,T,217
+272,Ladder Room Catwalk Side,Boombl4,0,0,0,0,0,0,CT,217
+273,Ladder Room Catwalk Side,Boombl4,1,1,0,154,100,54,T,217
+274,Back Right B Site from T's Perspective,Boombl4,0,0,0,66,0,66,CT,217
+275,Back Right B Site from T's Perspective,Boombl4,0,0,0,0,0,0,T,217
+276,Ninja,Boombl4,2,0,2,259,19,240,CT,217
+277,Ninja,Boombl4,0,0,0,0,0,0,T,217
+278,Market Window Peek,Boombl4,1,1,0,74,230,-156,CT,217
+279,Market Window Peek,Boombl4,0,0,0,0,0,0,T,217
+280,Right Side Snipers Nest,Boombl4,0,0,0,0,0,0,CT,217
+281,Right Side Snipers Nest,Boombl4,0,0,0,0,0,0,T,217
+282,Safe Plant B Site,Boombl4,0,0,0,0,0,0,CT,217
+283,Safe Plant B Site,Boombl4,0,0,0,0,0,0,T,217
+284,Stairs Smoke Platform,Boombl4,0,1,-1,0,0,0,CT,217
+285,Stairs Smoke Platform,Boombl4,0,0,0,0,0,0,T,217
+286,market,Boombl4,0,1,-1,0,45,-45,CT,217
+287,market,Boombl4,0,0,0,0,0,0,T,217
+288,Arch,Boombl4,1,0,1,76,0,76,CT,217
+289,Arch,Boombl4,0,0,0,0,0,0,T,217
+290,Underpass,Boombl4,0,1,-1,0,100,-100,CT,217
+291,Underpass,Boombl4,0,0,0,0,0,0,T,217
+292,CT Side Apps,Perfecto,2,1,1,183,95,88,CT,217
+293,CT Side Apps,Perfecto,2,4,-2,317,455,-138,T,217
+294,Ticketbooth ,Perfecto,3,7,-4,291,722,-431,CT,217
+295,Ticketbooth ,Perfecto,0,0,0,0,0,0,T,217
+296,Left Side Platform,Perfecto,1,1,0,114,147,-33,CT,217
+297,Left Side Platform,Perfecto,3,5,-2,403,539,-136,T,217
+298,Bench,Perfecto,6,8,-2,852,1078,-226,CT,217
+299,Bench,Perfecto,0,1,-1,0,100,-100,T,217
+300,Back B Site Peeking Apps/Plat,Perfecto,4,4,0,657,279,378,CT,217
+301,Back B Site Peeking Apps/Plat,Perfecto,1,2,-1,114,179,-65,T,217
+302,Bottom Stairs,Perfecto,0,1,-1,0,100,-100,CT,217
+303,Bottom Stairs,Perfecto,1,5,-4,100,345,-245,T,217
+304,CT Catwalk,Perfecto,2,1,1,177,168,9,CT,217
+305,CT Catwalk,Perfecto,0,1,-1,0,28,-28,T,217
+306,A Ramp,Perfecto,0,0,0,0,0,0,CT,217
+307,A Ramp,Perfecto,1,4,-3,137,520,-383,T,217
+308,Underneath B apps plat,Perfecto,1,2,-1,134,200,-66,CT,217
+309,Underneath B apps plat,Perfecto,0,1,-1,106,61,45,T,217
+310,Deep Catwalk,Perfecto,1,3,-2,146,300,-154,CT,217
+311,Deep Catwalk,Perfecto,0,2,-2,0,174,-174,T,217
+312,Deep T Apps,Perfecto,0,1,-1,24,58,-34,CT,217
+313,Deep T Apps,Perfecto,3,4,-1,302,586,-284,T,217
+314,Arch,Perfecto,2,3,-1,419,300,119,CT,217
+315,Arch,Perfecto,0,0,0,0,0,0,T,217
+316,CT Left Side,Perfecto,0,3,-3,203,304,-101,CT,217
+317,CT Left Side,Perfecto,0,0,0,0,0,0,T,217
+318,Catwalk T Aparments Peek,Perfecto,0,1,-1,0,40,-40,CT,217
+319,Catwalk T Aparments Peek,Perfecto,0,2,-2,0,134,-134,T,217
+320,Triple Box,Perfecto,1,1,0,100,100,0,CT,217
+321,Triple Box,Perfecto,1,3,-2,100,289,-189,T,217
+322,B Bombsite Cross to Catwalk,Perfecto,1,1,0,85,100,-15,CT,217
+323,B Bombsite Cross to Catwalk,Perfecto,2,0,2,200,48,152,T,217
+324,Underpass,Perfecto,0,0,0,0,0,0,CT,217
+325,Underpass,Perfecto,1,4,-3,173,314,-141,T,217
+326,Snipers Nest,Perfecto,1,0,1,101,0,101,CT,217
+327,Snipers Nest,Perfecto,0,2,-2,33,200,-167,T,217
+328,Mid Close Connector,Perfecto,0,1,-1,0,100,-100,CT,217
+329,Mid Close Connector,Perfecto,2,1,1,176,100,76,T,217
+330,Default A,Perfecto,1,1,0,146,100,46,CT,217
+331,Default A,Perfecto,0,1,-1,22,100,-78,T,217
+332,Top Mid Left Side,Perfecto,1,2,-1,100,100,0,CT,217
+333,Top Mid Left Side,Perfecto,2,1,1,284,156,128,T,217
+334,B Site Default Plant,Perfecto,0,1,-1,112,100,12,CT,217
+335,B Site Default Plant,Perfecto,0,1,-1,0,68,-68,T,217
+336,CT Outside Market,Perfecto,2,2,0,227,219,8,CT,217
+337,CT Outside Market,Perfecto,0,1,-1,0,53,-53,T,217
+338,Deep Jungle,Perfecto,1,2,-1,272,226,46,CT,217
+339,Deep Jungle,Perfecto,0,1,-1,0,100,-100,T,217
+340,Forest,Perfecto,6,3,3,642,435,207,CT,217
+341,Forest,Perfecto,0,0,0,0,0,0,T,217
+342,Top Balcony,Perfecto,0,0,0,0,0,0,CT,217
+343,Top Balcony,Perfecto,0,2,-2,8,200,-192,T,217
+344,Stairs Palace Peek,Perfecto,0,1,-1,0,100,-100,CT,217
+345,Stairs Palace Peek,Perfecto,1,1,0,110,51,59,T,217
+346,Bottom Connector,Perfecto,1,0,1,103,0,103,CT,217
+347,Bottom Connector,Perfecto,0,1,-1,0,223,-223,T,217
+348,CT Deep Catwalk Mid peek,Perfecto,0,1,-1,121,100,21,CT,217
+349,CT Deep Catwalk Mid peek,Perfecto,1,1,0,100,100,0,T,217
+350,Apartments Right CT Corner,Perfecto,1,1,0,125,100,25,CT,217
+351,Apartments Right CT Corner,Perfecto,0,0,0,33,52,-19,T,217
+352,T Palace Stairs Peek,Perfecto,0,0,0,0,0,0,CT,217
+353,T Palace Stairs Peek,Perfecto,1,1,0,100,187,-87,T,217
+354,B site Market Plant,Perfecto,3,2,1,231,174,57,CT,217
+355,B site Market Plant,Perfecto,0,1,-1,0,100,-100,T,217
+356,A Site Exposed to Stairs Connector Cat,Perfecto,0,0,0,0,0,0,CT,217
+357,A Site Exposed to Stairs Connector Cat,Perfecto,0,3,-3,121,300,-179,T,217
+358,Deep CT,Perfecto,2,2,0,51,220,-169,CT,217
+359,Deep CT,Perfecto,0,1,-1,29,100,-71,T,217
+360,Sandwhich,Perfecto,0,0,0,27,0,27,CT,217
+361,Sandwhich,Perfecto,0,1,-1,0,70,-70,T,217
+362,Right Side Platform,Perfecto,1,0,1,0,0,0,CT,217
+363,Right Side Platform,Perfecto,1,0,1,58,65,-7,T,217
+364,Catwalk Connector Peek,Perfecto,0,1,-1,94,100,-6,CT,217
+365,Catwalk Connector Peek,Perfecto,0,1,-1,0,8,-8,T,217
+366,Back Left B Site From T's' Perspective,Perfecto,4,2,2,431,237,194,CT,217
+367,Back Left B Site From T's' Perspective,Perfecto,0,0,0,0,0,0,T,217
+368,Top Mid towards Apps,Perfecto,0,0,0,0,0,0,CT,217
+369,Top Mid towards Apps,Perfecto,0,1,-1,0,100,-100,T,217
+370,CT Spawn,Perfecto,0,2,-2,90,267,-177,CT,217
+371,CT Spawn,Perfecto,0,0,0,0,0,0,T,217
+372,Deep Palace,Perfecto,0,1,-1,21,100,-79,CT,217
+373,Deep Palace,Perfecto,0,1,-1,0,100,-100,T,217
+374,Snipers Palace Peek,Perfecto,0,1,-1,0,101,-101,CT,217
+375,Snipers Palace Peek,Perfecto,1,1,0,103,172,-69,T,217
+376,Ninja,Perfecto,0,0,0,0,0,0,CT,217
+377,Ninja,Perfecto,0,0,0,0,0,0,T,217
+378,A Site,Perfecto,0,0,0,0,0,0,CT,217
+379,A Site,Perfecto,5,1,4,356,148,208,T,217
+380,T Spawn,Perfecto,0,0,0,0,0,0,CT,217
+381,T Spawn,Perfecto,2,1,1,194,100,94,T,217
+382,Ladder Room Catwalk Side,Perfecto,2,1,1,202,218,-16,CT,217
+383,Ladder Room Catwalk Side,Perfecto,0,1,-1,61,100,-39,T,217
+384,T Spawn A Ramp,Perfecto,0,0,0,0,0,0,CT,217
+385,T Spawn A Ramp,Perfecto,0,1,-1,30,56,-26,T,217
+386,T Deep Apps Underpass/Apps Peek,Perfecto,0,0,0,0,0,0,CT,217
+387,T Deep Apps Underpass/Apps Peek,Perfecto,3,1,2,385,143,242,T,217
+388,Deep T Apps Underpass STairs,Perfecto,1,0,1,0,28,-28,CT,217
+389,Deep T Apps Underpass STairs,Perfecto,2,0,2,238,92,146,T,217
+390,T Deep apps,Perfecto,0,0,0,0,0,0,CT,217
+391,T Deep apps,Perfecto,0,0,0,44,27,17,T,217
+392,Under balcony,Perfecto,0,0,0,0,0,0,CT,217
+393,Under balcony,Perfecto,0,1,-1,0,61,-61,T,217
+394,Top Mid Boxes Right Side Peek,Perfecto,0,0,0,0,0,0,CT,217
+395,Top Mid Boxes Right Side Peek,Perfecto,0,0,0,0,0,0,T,217
+396,Tetris,Perfecto,0,0,0,0,0,0,CT,217
+397,Tetris,Perfecto,1,1,0,266,130,136,T,217
+398,Firebox,Perfecto,0,0,0,0,0,0,CT,217
+399,Firebox,Perfecto,2,0,2,170,27,143,T,217
+400,Close A Ramp,Perfecto,0,0,0,0,0,0,CT,217
+401,Close A Ramp,Perfecto,0,1,-1,28,100,-72,T,217
+402,Register Market,Perfecto,0,1,-1,68,100,-32,CT,217
+403,Register Market,Perfecto,0,0,0,0,0,0,T,217
+404,Jungle Plant,Perfecto,1,0,1,60,0,60,CT,217
+405,Jungle Plant,Perfecto,0,1,-1,0,100,-100,T,217
+406,Deep T Spawn T Ramp,Perfecto,0,0,0,0,0,0,CT,217
+407,Deep T Spawn T Ramp,Perfecto,2,0,2,200,64,136,T,217
+408,BoatHouse,Perfecto,0,0,0,0,0,0,CT,217
+409,BoatHouse,Perfecto,0,1,-1,0,73,-73,T,217
+410,Van Barrel Peek,Perfecto,0,0,0,0,0,0,CT,217
+411,Van Barrel Peek,Perfecto,0,0,0,0,0,0,T,217
+412,Top Van,Perfecto,0,1,-1,168,100,68,CT,217
+413,Top Van,Perfecto,1,0,1,16,26,-10,T,217
+414,Connector behind box,Perfecto,1,0,1,100,0,100,CT,217
+415,Connector behind box,Perfecto,0,1,-1,48,100,-52,T,217
+416,Catwalk Plant B Site,Perfecto,0,0,0,5,0,5,CT,217
+417,Catwalk Plant B Site,Perfecto,0,0,0,0,0,0,T,217
+418,Close Left CT A Ramp,Perfecto,0,0,0,0,6,-6,CT,217
+419,Close Left CT A Ramp,Perfecto,0,1,-1,0,77,-77,T,217
+420,T Apps TV,Perfecto,0,0,0,0,0,0,CT,217
+421,T Apps TV,Perfecto,2,0,2,199,22,177,T,217
+422,Top STairs,Perfecto,1,0,1,100,0,100,CT,217
+423,Top STairs,Perfecto,1,1,0,135,100,35,T,217
+424,Close Market door,Perfecto,2,0,2,115,41,74,CT,217
+425,Close Market door,Perfecto,0,0,0,0,0,0,T,217
+426,Bench Closer to Tribox,Perfecto,0,0,0,0,0,0,CT,217
+427,Bench Closer to Tribox,Perfecto,0,0,0,0,0,0,T,217
+428,market,Perfecto,0,0,0,0,0,0,CT,217
+429,market,Perfecto,0,1,-1,0,100,-100,T,217
+430,Murder Hole,Perfecto,0,0,0,2,0,2,CT,217
+431,Murder Hole,Perfecto,0,0,0,0,0,0,T,217
+432,Under window B apps,Perfecto,0,0,0,0,0,0,CT,217
+433,Under window B apps,Perfecto,0,0,0,0,0,0,T,217
+434,Bottom Stairs,B1t,2,4,-2,321,409,-88,CT,157
+435,Bottom Stairs,B1t,2,1,1,203,128,75,T,157
+436,Ticketbooth ,B1t,3,4,-1,391,360,31,CT,157
+437,Ticketbooth ,B1t,0,1,-1,0,77,-77,T,157
+438,Top Balcony,B1t,0,1,-1,0,100,-100,CT,157
+439,Top Balcony,B1t,2,2,0,238,200,38,T,157
+440,Triple Box,B1t,1,1,0,100,100,0,CT,157
+441,Triple Box,B1t,2,1,1,166,50,116,T,157
+442,CT Catwalk,B1t,3,3,0,568,499,69,CT,157
+443,CT Catwalk,B1t,0,2,-2,86,139,-53,T,157
+444,Deep Jungle,B1t,5,4,1,683,408,275,CT,157
+445,Deep Jungle,B1t,3,2,1,300,100,200,T,157
+446,Default A,B1t,0,1,-1,0,92,-92,CT,157
+447,Default A,B1t,0,4,-4,65,316,-251,T,157
+448,A Site,B1t,0,0,0,0,0,0,CT,157
+449,A Site,B1t,2,2,0,331,273,58,T,157
+450,CT Deep Catwalk Mid peek,B1t,1,3,-2,228,300,-72,CT,157
+451,CT Deep Catwalk Mid peek,B1t,0,0,0,0,0,0,T,157
+452,CT Side Apps,B1t,0,0,0,0,76,-76,CT,157
+453,CT Side Apps,B1t,2,3,-1,286,239,47,T,157
+454,A Site Exposed to Stairs Connector Cat,B1t,1,0,1,12,0,12,CT,157
+455,A Site Exposed to Stairs Connector Cat,B1t,1,5,-4,110,436,-326,T,157
+456,Under balcony,B1t,0,0,0,0,0,0,CT,157
+457,Under balcony,B1t,1,2,-1,150,200,-50,T,157
+458,Deep Catwalk,B1t,3,3,0,279,335,-56,CT,157
+459,Deep Catwalk,B1t,1,1,0,100,127,-27,T,157
+460,Mid Close Connector,B1t,0,1,-1,0,100,-100,CT,157
+461,Mid Close Connector,B1t,3,0,3,239,113,126,T,157
+462,Arch,B1t,4,5,-1,396,442,-46,CT,157
+463,Arch,B1t,0,0,0,0,0,0,T,157
+464,Underpass,B1t,0,0,0,56,27,29,CT,157
+465,Underpass,B1t,2,2,0,152,151,1,T,157
+466,Snipers Palace Peek,B1t,0,1,-1,0,6,-6,CT,157
+467,Snipers Palace Peek,B1t,1,0,1,100,3,97,T,157
+468,Leftside Connector,B1t,1,0,1,100,86,14,CT,157
+469,Leftside Connector,B1t,0,1,-1,26,87,-61,T,157
+470,Bottom Connector,B1t,0,0,0,0,0,0,CT,157
+471,Bottom Connector,B1t,1,1,0,28,94,-66,T,157
+472,Ladder Room Catwalk Side,B1t,0,2,-2,53,218,-165,CT,157
+473,Ladder Room Catwalk Side,B1t,0,1,-1,0,73,-73,T,157
+474,Deep Palace,B1t,0,2,-2,0,200,-200,CT,157
+475,Deep Palace,B1t,0,1,-1,0,104,-104,T,157
+476,Deep CT,B1t,1,1,0,39,100,-61,CT,157
+477,Deep CT,B1t,0,0,0,0,0,0,T,157
+478,Left Side corner deep jungle,B1t,3,3,0,379,300,79,CT,157
+479,Left Side corner deep jungle,B1t,0,0,0,0,0,0,T,157
+480,Left Side Platform,B1t,0,1,-1,0,100,-100,CT,157
+481,Left Side Platform,B1t,0,0,0,3,0,3,T,157
+482,Top Connector,B1t,0,0,0,0,6,-6,CT,157
+483,Top Connector,B1t,0,3,-3,89,288,-199,T,157
+484,Catwalk Connector Peek,B1t,1,0,1,69,53,16,CT,157
+485,Catwalk Connector Peek,B1t,2,1,1,143,55,88,T,157
+486,Top Mid Left Side,B1t,0,0,0,0,0,0,CT,157
+487,Top Mid Left Side,B1t,0,1,-1,0,158,-158,T,157
+488,Catwalk T Aparments Peek,B1t,3,2,1,307,200,107,CT,157
+489,Catwalk T Aparments Peek,B1t,0,0,0,0,0,0,T,157
+490,Back Left B Site From T's' Perspective,B1t,2,2,0,305,196,109,CT,157
+491,Back Left B Site From T's' Perspective,B1t,0,0,0,0,0,0,T,157
+492,B site Market Plant,B1t,0,1,-1,0,100,-100,CT,157
+493,B site Market Plant,B1t,0,1,-1,0,100,-100,T,157
+494,Market Window Peek,B1t,1,2,-1,113,200,-87,CT,157
+495,Market Window Peek,B1t,0,0,0,0,0,0,T,157
+496,B Bombsite Cross to Catwalk,B1t,2,0,2,81,27,54,CT,157
+497,B Bombsite Cross to Catwalk,B1t,0,1,-1,0,97,-97,T,157
+498,Stairs Palace Peek,B1t,0,1,-1,88,100,-12,CT,157
+499,Stairs Palace Peek,B1t,1,1,0,41,99,-58,T,157
+500,Close Left CT A Ramp,B1t,0,0,0,0,0,0,CT,157
+501,Close Left CT A Ramp,B1t,0,2,-2,40,243,-203,T,157
+502,Snipers Nest,B1t,5,3,2,733,387,346,CT,157
+503,Snipers Nest,B1t,0,0,0,0,0,0,T,157
+504,T Palace Stairs Peek,B1t,0,0,0,0,0,0,CT,157
+505,T Palace Stairs Peek,B1t,1,2,-1,155,206,-51,T,157
+506,Murder Hole,B1t,0,1,-1,3,100,-97,CT,157
+507,Murder Hole,B1t,0,1,-1,27,100,-73,T,157
+508,CT Outside Market,B1t,0,1,-1,7,100,-93,CT,157
+509,CT Outside Market,B1t,1,0,1,100,0,100,T,157
+510,Sandwhich,B1t,0,0,0,0,0,0,CT,157
+511,Sandwhich,B1t,2,1,1,125,110,15,T,157
+512,Close A Ramp,B1t,0,0,0,0,0,0,CT,157
+513,Close A Ramp,B1t,0,1,-1,0,149,-149,T,157
+514,Bench,B1t,1,1,0,80,99,-19,CT,157
+515,Bench,B1t,2,0,2,121,0,121,T,157
+516,Top Mid towards Apps,B1t,0,0,0,0,0,0,CT,157
+517,Top Mid towards Apps,B1t,0,2,-2,0,148,-148,T,157
+518,Back B Site Peeking Apps/Plat,B1t,0,1,-1,10,100,-90,CT,157
+519,Back B Site Peeking Apps/Plat,B1t,0,1,-1,0,100,-100,T,157
+520,Top Mid Catwalk,B1t,0,0,0,0,0,0,CT,157
+521,Top Mid Catwalk,B1t,0,0,0,43,78,-35,T,157
+522,T Deep Apps Underpass/Apps Peek,B1t,0,0,0,0,0,0,CT,157
+523,T Deep Apps Underpass/Apps Peek,B1t,1,0,1,100,61,39,T,157
+524,Connector behind box,B1t,0,0,0,0,1,-1,CT,157
+525,Connector behind box,B1t,0,0,0,0,76,-76,T,157
+526,Jungle Plant,B1t,0,1,-1,0,100,-100,CT,157
+527,Jungle Plant,B1t,1,1,0,9,128,-119,T,157
+528,A Ramp,B1t,0,0,0,0,0,0,CT,157
+529,A Ramp,B1t,5,1,4,441,317,124,T,157
+530,Right Side Connector,B1t,1,0,1,19,1,18,CT,157
+531,Right Side Connector,B1t,0,2,-2,0,200,-200,T,157
+532,Back Right B Site from T's Perspective,B1t,1,0,1,99,0,99,CT,157
+533,Back Right B Site from T's Perspective,B1t,0,0,0,0,0,0,T,157
+534,Top Van,B1t,0,0,0,0,0,0,CT,157
+535,Top Van,B1t,0,0,0,0,0,0,T,157
+536,Bottom Mid Boosting Snipers,B1t,0,0,0,0,0,0,CT,157
+537,Bottom Mid Boosting Snipers,B1t,0,0,0,0,0,0,T,157
+538,CT Spawn,B1t,1,1,0,114,24,90,CT,157
+539,CT Spawn,B1t,0,0,0,0,0,0,T,157
+540,Bench Closer To Jungle,B1t,0,1,-1,0,100,-100,CT,157
+541,Bench Closer To Jungle,B1t,1,0,1,110,0,110,T,157
+542,Deep T Apps Underpass STairs,B1t,1,1,0,128,73,55,CT,157
+543,Deep T Apps Underpass STairs,B1t,2,0,2,200,0,200,T,157
+544,Right Side Snipers Nest,B1t,0,1,-1,0,4,-4,CT,157
+545,Right Side Snipers Nest,B1t,0,0,0,0,0,0,T,157
+546,Firebox,B1t,0,0,0,0,0,0,CT,157
+547,Firebox,B1t,1,1,0,76,116,-40,T,157
+548,Chair,B1t,0,0,0,0,0,0,CT,157
+549,Chair,B1t,0,0,0,0,0,0,T,157
+550,Inside Market Doors,B1t,0,0,0,0,0,0,CT,157
+551,Inside Market Doors,B1t,0,0,0,0,0,0,T,157
+552,Top Mid Right Side,B1t,0,1,-1,0,100,-100,CT,157
+553,Top Mid Right Side,B1t,0,0,0,0,0,0,T,157
+554,Close Market door,B1t,0,0,0,0,25,-25,CT,157
+555,Close Market door,B1t,1,0,1,100,0,100,T,157
+556,T Spawn,B1t,0,0,0,0,0,0,CT,157
+557,T Spawn,B1t,0,1,-1,52,53,-1,T,157
+558,T Apps TV,B1t,1,0,1,0,0,0,CT,157
+559,T Apps TV,B1t,0,0,0,0,0,0,T,157
+560,CT Left Side,B1t,0,0,0,0,0,0,CT,157
+561,CT Left Side,B1t,0,0,0,0,0,0,T,157
+562,Bottom Mid Ladder Room Peek,B1t,0,0,0,0,0,0,CT,157
+563,Bottom Mid Ladder Room Peek,B1t,0,0,0,0,1,-1,T,157
+564,Right Side Platform,B1t,0,0,0,0,0,0,CT,157
+565,Right Side Platform,B1t,0,0,0,0,0,0,T,157
+566,Under window B apps,B1t,0,0,0,0,0,0,CT,157
+567,Under window B apps,B1t,0,0,0,0,0,0,T,157
+568,Deep T Spawn T Ramp,B1t,0,0,0,0,0,0,CT,157
+569,Deep T Spawn T Ramp,B1t,0,1,-1,27,100,-73,T,157
+570,Safe Plant B Site,B1t,0,0,0,0,0,0,CT,157
+571,Safe Plant B Site,B1t,0,0,0,0,0,0,T,157
+572,Middle Bench,B1t,0,0,0,0,0,0,CT,157
+573,Middle Bench,B1t,0,1,-1,0,100,-100,T,157
+574,Top Mid,B1t,0,1,-1,0,100,-100,CT,157
+575,Top Mid,B1t,0,0,0,4,0,4,T,157
+576,Bench,Flamie,1,0,1,46,0,46,CT,60
+577,Bench,Flamie,0,0,0,0,0,0,T,60
+578,Ticketbooth ,Flamie,0,2,-2,51,272,-221,CT,60
+579,Ticketbooth ,Flamie,0,1,-1,72,57,15,T,60
+580,CT Spawn,Flamie,0,2,-2,47,128,-81,CT,60
+581,CT Spawn,Flamie,1,0,1,100,0,100,T,60
+582,Top Mid Left Side,Flamie,0,0,0,0,0,0,CT,60
+583,Top Mid Left Side,Flamie,0,1,-1,0,100,-100,T,60
+584,Arch,Flamie,1,3,-2,228,300,-72,CT,60
+585,Arch,Flamie,3,0,3,219,14,205,T,60
+586,B Bombsite Cross to Catwalk,Flamie,0,1,-1,19,100,-81,CT,60
+587,B Bombsite Cross to Catwalk,Flamie,0,0,0,24,0,24,T,60
+588,Triple Box,Flamie,0,2,-2,47,200,-153,CT,60
+589,Triple Box,Flamie,0,0,0,0,12,-12,T,60
+590,Back B Site Peeking Apps/Plat,Flamie,0,1,-1,0,28,-28,CT,60
+591,Back B Site Peeking Apps/Plat,Flamie,0,0,0,0,0,0,T,60
+592,CT Catwalk,Flamie,1,1,0,88,127,-39,CT,60
+593,CT Catwalk,Flamie,0,0,0,2,0,2,T,60
+594,Deep T Apps,Flamie,0,1,-1,54,100,-46,CT,60
+595,Deep T Apps,Flamie,0,0,0,0,0,0,T,60
+596,Top Mid,Flamie,0,0,0,0,0,0,CT,60
+597,Top Mid,Flamie,0,0,0,0,0,0,T,60
+598,T Spawn,Flamie,0,0,0,0,0,0,CT,60
+599,T Spawn,Flamie,0,2,-2,0,200,-200,T,60
+600,T Palace Stairs Peek,Flamie,0,0,0,0,0,0,CT,60
+601,T Palace Stairs Peek,Flamie,1,1,0,188,187,1,T,60
+602,Snipers Nest,Flamie,1,1,0,135,100,35,CT,60
+603,Snipers Nest,Flamie,1,0,1,46,61,-15,T,60
+604,Underneath B apps plat,Flamie,0,1,-1,0,99,-99,CT,60
+605,Underneath B apps plat,Flamie,0,0,0,0,0,0,T,60
+606,Deep Catwalk,Flamie,2,2,0,175,213,-38,CT,60
+607,Deep Catwalk,Flamie,1,0,1,100,32,68,T,60
+608,CT Deep Catwalk Mid peek,Flamie,1,2,-1,175,201,-26,CT,60
+609,CT Deep Catwalk Mid peek,Flamie,0,0,0,0,12,-12,T,60
+610,Deep Palace,Flamie,0,0,0,0,0,0,CT,60
+611,Deep Palace,Flamie,1,2,-1,176,200,-24,T,60
+612,Bottom Mid Ladder Room Peek,Flamie,0,0,0,0,0,0,CT,60
+613,Bottom Mid Ladder Room Peek,Flamie,0,0,0,0,0,0,T,60
+614,Register Market,Flamie,0,0,0,0,0,0,CT,60
+615,Register Market,Flamie,0,1,-1,0,100,-100,T,60
+616,Bench Closer To Jungle,Flamie,0,0,0,0,0,0,CT,60
+617,Bench Closer To Jungle,Flamie,0,0,0,0,0,0,T,60
+618,Middle Bench,Flamie,0,0,0,0,0,0,CT,60
+619,Middle Bench,Flamie,0,0,0,0,0,0,T,60
+620,Catwalk Connector Peek,Flamie,1,0,1,100,49,51,CT,60
+621,Catwalk Connector Peek,Flamie,0,0,0,0,0,0,T,60
+622,Left Side corner deep jungle,Flamie,0,0,0,45,0,45,CT,60
+623,Left Side corner deep jungle,Flamie,0,1,-1,0,100,-100,T,60
+624,A Ramp,Flamie,0,0,0,0,0,0,CT,60
+625,A Ramp,Flamie,0,1,-1,0,100,-100,T,60
+626,Close Market door,Flamie,2,0,2,117,94,23,CT,60
+627,Close Market door,Flamie,0,0,0,81,44,37,T,60
+628,Catwalk T Aparments Peek,Flamie,0,0,0,0,0,0,CT,60
+629,Catwalk T Aparments Peek,Flamie,1,1,0,126,68,58,T,60
+630,Inside Market Doors,Flamie,0,0,0,0,0,0,CT,60
+631,Inside Market Doors,Flamie,0,0,0,0,0,0,T,60
+632,market,Flamie,1,1,0,180,100,80,CT,60
+633,market,Flamie,0,0,0,0,0,0,T,60
+634,CT Side Apps,Flamie,0,0,0,0,0,0,CT,60
+635,CT Side Apps,Flamie,0,0,0,0,13,-13,T,60
+636,Bottom Connector,Flamie,0,0,0,0,0,0,CT,60
+637,Bottom Connector,Flamie,0,0,0,9,0,9,T,60
+638,Deep Jungle,Flamie,0,1,-1,50,100,-50,CT,60
+639,Deep Jungle,Flamie,0,0,0,0,0,0,T,60
+640,Top STairs,Flamie,0,1,-1,0,100,-100,CT,60
+641,Top STairs,Flamie,0,0,0,0,0,0,T,60
+642,Deep CT,Flamie,0,0,0,0,0,0,CT,60
+643,Deep CT,Flamie,0,0,0,0,0,0,T,60
+644,A Site Exposed to Stairs Connector Cat,Flamie,0,0,0,0,0,0,CT,60
+645,A Site Exposed to Stairs Connector Cat,Flamie,0,0,0,0,0,0,T,60
+646,Bottom Stairs,Flamie,0,0,0,53,0,53,CT,60
+647,Bottom Stairs,Flamie,0,0,0,0,0,0,T,60
+648,Snipers Palace Peek,Flamie,0,1,-1,0,100,-100,CT,60
+649,Snipers Palace Peek,Flamie,0,0,0,0,0,0,T,60
+650,Top Balcony,Flamie,0,0,0,0,0,0,CT,60
+651,Top Balcony,Flamie,3,1,2,220,100,120,T,60
+652,Ladder Room Catwalk Side,Flamie,0,1,-1,0,100,-100,CT,60
+653,Ladder Room Catwalk Side,Flamie,0,0,0,0,0,0,T,60
+654,Underpass,Flamie,1,0,1,47,0,47,CT,60
+655,Underpass,Flamie,0,0,0,41,0,41,T,60

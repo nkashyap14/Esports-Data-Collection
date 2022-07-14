@@ -1,0 +1,192 @@
+,RoundNum,MatchId,MapName,StartTick,FreezeTimeEnd,EndTick,EndOfficialTick,TScore,CTScore,WinningSide,WinningTeam,LosingTeam,RoundEndReason,CTStartEqVal,CTBuyType,TStartEqVal,TBuyType
+0,1,furia-vs-natus-vincere-m3-mirage,de_mirage,1150,3710,10786,10790,0,0,T,NAVI,FURIA,TerroristsWin,4400,Pistol,4550,Pistol
+1,2,furia-vs-natus-vincere-m3-mirage,de_mirage,11425,13985,24860,24865,1,0,T,NAVI,FURIA,TerroristsWin,1400,Full Eco,19950,Full Buy
+2,3,furia-vs-natus-vincere-m3-mirage,de_mirage,25500,28060,37350,37355,2,0,T,NAVI,FURIA,TargetBombed,23200,Full Buy,22600,Full Buy
+3,4,furia-vs-natus-vincere-m3-mirage,de_mirage,37990,40550,50852,50858,3,0,T,NAVI,FURIA,TerroristsWin,14400,Half Buy,26550,Full Buy
+4,5,furia-vs-natus-vincere-m3-mirage,de_mirage,51493,54053,67912,67917,4,0,CT,FURIA,NAVI,CTWin,27250,Full Buy,26550,Full Buy
+5,6,furia-vs-natus-vincere-m3-mirage,de_mirage,68552,71112,86856,86861,4,1,T,NAVI,FURIA,TargetBombed,24850,Full Buy,27250,Full Buy
+6,7,furia-vs-natus-vincere-m3-mirage,de_mirage,87496,94438,103095,103100,5,1,CT,FURIA,NAVI,BombDefused,24800,Full Buy,27250,Full Buy
+7,8,furia-vs-natus-vincere-m3-mirage,de_mirage,103735,111589,118239,118243,5,2,T,NAVI,FURIA,TerroristsWin,29650,Full Buy,22250,Full Buy
+8,9,furia-vs-natus-vincere-m3-mirage,de_mirage,118878,121438,126578,126583,6,2,T,NAVI,FURIA,TerroristsWin,5400,Eco,26350,Full Buy
+9,10,furia-vs-natus-vincere-m3-mirage,de_mirage,127218,133618,147070,147075,7,2,CT,FURIA,NAVI,CTWin,26550,Full Buy,27150,Full Buy
+10,11,furia-vs-natus-vincere-m3-mirage,de_mirage,147710,150270,160019,160024,7,3,T,NAVI,FURIA,TargetBombed,21900,Half Buy,27250,Full Buy
+11,12,furia-vs-natus-vincere-m3-mirage,de_mirage,160659,163219,177478,177483,8,3,T,NAVI,FURIA,TerroristsWin,8800,Half Buy,27550,Full Buy
+12,13,furia-vs-natus-vincere-m3-mirage,de_mirage,178118,180678,197327,197332,9,3,T,NAVI,FURIA,TerroristsWin,24950,Full Buy,27850,Full Buy
+13,14,furia-vs-natus-vincere-m3-mirage,de_mirage,197967,200527,207980,207987,10,3,T,NAVI,FURIA,TerroristsWin,12050,Half Buy,28250,Full Buy
+14,15,furia-vs-natus-vincere-m3-mirage,de_mirage,208622,211182,217885,217506,11,3,T,NAVI,FURIA,TerroristsWin,26750,Full Buy,29350,Full Buy
+15,16,furia-vs-natus-vincere-m3-mirage,de_mirage,218141,245630,249792,249800,3,12,T,FURIA,NAVI,TerroristsWin,4400,Pistol,4450,Pistol
+16,17,furia-vs-natus-vincere-m3-mirage,de_mirage,250435,252995,264548,264553,4,12,T,FURIA,NAVI,TerroristsWin,11750,Half Buy,19200,Full Buy
+17,18,furia-vs-natus-vincere-m3-mirage,de_mirage,265188,267748,271510,271515,5,12,T,FURIA,NAVI,TerroristsWin,3000,Eco,21200,Full Buy
+18,19,furia-vs-natus-vincere-m3-mirage,de_mirage,272150,274710,283935,283940,6,12,CT,NAVI,FURIA,CTWin,26000,Full Buy,25600,Full Buy
+19,20,furia-vs-natus-vincere-m3-mirage,de_mirage,284575,291672,302043,302048,6,13,CT,NAVI,FURIA,CTWin,25800,Full Buy,26200,Full Buy
+20,21,furia-vs-natus-vincere-m3-mirage,de_mirage,302683,305243,317301,317306,6,14,CT,NAVI,FURIA,CTWin,32250,Full Buy,11050,Half Buy
+21,22,furia-vs-natus-vincere-m3-mirage,de_mirage,317941,328311,328311,343037,6,15,CT,NAVI,FURIA,CTWin,32900,Full Buy,13350,Half Buy
+22,1,furia-vs-pain-m2-mirage,de_mirage,0,0,1150,1155,0,0,CT,paiN,FURIA,TargetSaved,162350,Pistol,86100,Pistol
+23,2,furia-vs-pain-m2-mirage,de_mirage,12053,14613,21755,21761,0,1,T,FURIA,paiN,TerroristsWin,11600,Half Buy,18450,Half Buy
+24,3,furia-vs-pain-m2-mirage,de_mirage,22396,24956,31515,31521,1,1,T,FURIA,paiN,TerroristsWin,1500,Full Eco,21750,Full Buy
+25,4,furia-vs-pain-m2-mirage,de_mirage,32156,34716,45125,45130,2,1,T,FURIA,paiN,TargetBombed,27000,Full Buy,23650,Full Buy
+26,5,furia-vs-pain-m2-mirage,de_mirage,45765,48325,57946,57952,3,1,CT,paiN,FURIA,CTWin,25750,Full Buy,28400,Full Buy
+27,6,furia-vs-pain-m2-mirage,de_mirage,58587,61147,79716,79721,3,2,T,FURIA,paiN,TargetBombed,31150,Full Buy,27150,Full Buy
+28,7,furia-vs-pain-m2-mirage,de_mirage,80356,82916,97636,97641,4,2,CT,paiN,FURIA,TargetSaved,28500,Full Buy,26650,Full Buy
+29,8,furia-vs-pain-m2-mirage,de_mirage,98276,100836,113959,113964,4,3,T,FURIA,paiN,TerroristsWin,33400,Full Buy,20100,Full Buy
+30,9,furia-vs-pain-m2-mirage,de_mirage,114599,117159,126876,126882,5,3,T,FURIA,paiN,TerroristsWin,8400,Half Buy,30550,Full Buy
+31,10,furia-vs-pain-m2-mirage,de_mirage,127517,130077,141484,141489,6,3,T,FURIA,paiN,TerroristsWin,27250,Full Buy,31850,Full Buy
+32,11,furia-vs-pain-m2-mirage,de_mirage,142124,144684,160912,160917,7,3,T,FURIA,paiN,TargetBombed,6050,Half Buy,28450,Full Buy
+33,12,furia-vs-pain-m2-mirage,de_mirage,161552,169086,179030,179035,8,3,CT,paiN,FURIA,CTWin,31150,Full Buy,28350,Full Buy
+34,13,furia-vs-pain-m2-mirage,de_mirage,179670,182230,197294,197299,8,4,T,FURIA,paiN,TargetBombed,26650,Full Buy,27150,Full Buy
+35,14,furia-vs-pain-m2-mirage,de_mirage,197934,200494,213354,213360,9,4,CT,paiN,FURIA,CTWin,8300,Half Buy,27150,Full Buy
+36,15,furia-vs-pain-m2-mirage,de_mirage,213995,216555,232698,232319,9,5,T,FURIA,paiN,TerroristsWin,34650,Full Buy,32300,Full Buy
+37,16,furia-vs-pain-m2-mirage,de_mirage,232954,257580,266114,266120,5,10,T,paiN,FURIA,TerroristsWin,4450,Pistol,4450,Pistol
+38,17,furia-vs-pain-m2-mirage,de_mirage,266755,269315,280118,280123,6,10,T,paiN,FURIA,TargetBombed,1000,Full Eco,20250,Full Buy
+39,18,furia-vs-pain-m2-mirage,de_mirage,280758,283318,296630,296635,7,10,T,paiN,FURIA,TargetBombed,23750,Full Buy,23450,Full Buy
+40,19,furia-vs-pain-m2-mirage,de_mirage,297270,299830,315364,315369,8,10,T,paiN,FURIA,TargetBombed,13850,Half Buy,27350,Full Buy
+41,20,furia-vs-pain-m2-mirage,de_mirage,316004,322547,332288,332294,9,10,T,paiN,FURIA,TerroristsWin,31600,Full Buy,27650,Full Buy
+42,21,furia-vs-pain-m2-mirage,de_mirage,332929,344036,362300,362305,10,10,T,paiN,FURIA,TargetBombed,17250,Half Buy,27050,Full Buy
+43,22,furia-vs-pain-m2-mirage,de_mirage,362940,365500,376521,376528,11,10,T,paiN,FURIA,TerroristsWin,30750,Full Buy,27550,Full Buy
+44,23,furia-vs-pain-m2-mirage,de_mirage,377163,379723,396888,396893,12,10,T,paiN,FURIA,TargetBombed,26800,Full Buy,27150,Full Buy
+45,24,furia-vs-pain-m2-mirage,de_mirage,397528,409445,416375,416379,13,10,CT,FURIA,paiN,CTWin,30250,Full Buy,27050,Full Buy
+46,25,furia-vs-pain-m2-mirage,de_mirage,417014,419574,434004,434009,13,11,CT,FURIA,paiN,CTWin,32400,Full Buy,25000,Full Buy
+47,26,furia-vs-pain-m2-mirage,de_mirage,434644,437204,454991,454996,13,12,CT,FURIA,paiN,BombDefused,32200,Full Buy,26500,Full Buy
+48,27,furia-vs-pain-m2-mirage,de_mirage,455631,458191,464049,464054,13,13,CT,FURIA,paiN,CTWin,32500,Full Buy,22300,Full Buy
+49,28,furia-vs-pain-m2-mirage,de_mirage,464689,480058,480058,494784,13,14,CT,FURIA,paiN,CTWin,33500,Full Buy,18500,Full Buy
+50,1,gambit-vs-natus-vincere-m3-mirage,de_mirage,1150,3710,6676,6676,0,0,CT,NAVI,Gambit,CTWin,4400,Pistol,4500,Pistol
+51,2,gambit-vs-natus-vincere-m3-mirage,de_mirage,7316,9876,12419,12419,0,1,CT,NAVI,Gambit,CTWin,21400,Half Buy,1200,Full Eco
+52,3,gambit-vs-natus-vincere-m3-mirage,de_mirage,13059,15619,26037,26037,0,2,T,Gambit,NAVI,TargetBombed,24100,Full Buy,22650,Full Buy
+53,4,gambit-vs-natus-vincere-m3-mirage,de_mirage,26677,29237,38881,38882,1,2,T,Gambit,NAVI,TerroristsWin,25250,Full Buy,25700,Full Buy
+54,5,gambit-vs-natus-vincere-m3-mirage,de_mirage,39522,42082,51312,51313,2,2,T,Gambit,NAVI,TerroristsWin,2500,Eco,23650,Full Buy
+55,6,gambit-vs-natus-vincere-m3-mirage,de_mirage,51953,54513,69790,69791,3,2,T,Gambit,NAVI,TerroristsWin,23550,Full Buy,27650,Full Buy
+56,7,gambit-vs-natus-vincere-m3-mirage,de_mirage,70431,78660,89286,89285,4,2,T,Gambit,NAVI,TerroristsWin,4900,Eco,27850,Full Buy
+57,8,gambit-vs-natus-vincere-m3-mirage,de_mirage,89925,92485,111191,111191,5,2,T,Gambit,NAVI,TargetBombed,29050,Full Buy,28750,Full Buy
+58,9,gambit-vs-natus-vincere-m3-mirage,de_mirage,111831,114391,125422,125422,6,2,T,Gambit,NAVI,TerroristsWin,14100,Half Buy,28650,Full Buy
+59,10,gambit-vs-natus-vincere-m3-mirage,de_mirage,126062,132741,143213,143213,7,2,CT,NAVI,Gambit,CTWin,29200,Full Buy,27950,Full Buy
+60,11,gambit-vs-natus-vincere-m3-mirage,de_mirage,143853,146413,162926,162926,7,3,T,Gambit,NAVI,TerroristsWin,24950,Full Buy,27650,Full Buy
+61,12,gambit-vs-natus-vincere-m3-mirage,de_mirage,163566,166126,177062,177062,8,3,T,Gambit,NAVI,TerroristsWin,5700,Eco,26200,Full Buy
+62,13,gambit-vs-natus-vincere-m3-mirage,de_mirage,177702,180262,192460,192460,9,3,T,Gambit,NAVI,TargetBombed,28850,Full Buy,28050,Full Buy
+63,14,gambit-vs-natus-vincere-m3-mirage,de_mirage,193100,195660,209576,209576,10,3,T,Gambit,NAVI,TerroristsWin,25200,Full Buy,28550,Full Buy
+64,15,gambit-vs-natus-vincere-m3-mirage,de_mirage,210216,212776,226575,226191,11,3,CT,NAVI,Gambit,CTWin,21000,Half Buy,34200,Full Buy
+65,16,gambit-vs-natus-vincere-m3-mirage,de_mirage,226831,254700,259372,259374,4,11,CT,Gambit,NAVI,CTWin,4300,Pistol,4400,Pistol
+66,17,gambit-vs-natus-vincere-m3-mirage,de_mirage,260014,262574,268170,268170,4,12,CT,Gambit,NAVI,CTWin,20050,Half Buy,2700,Eco
+67,18,gambit-vs-natus-vincere-m3-mirage,de_mirage,268810,271370,287408,287408,4,13,T,NAVI,Gambit,TargetBombed,23500,Full Buy,21000,Full Buy
+68,19,gambit-vs-natus-vincere-m3-mirage,de_mirage,288048,296171,306754,306754,5,13,T,NAVI,Gambit,TargetBombed,27600,Full Buy,24100,Full Buy
+69,20,gambit-vs-natus-vincere-m3-mirage,de_mirage,307394,309954,327901,327901,6,13,T,NAVI,Gambit,TargetBombed,23300,Full Buy,23800,Full Buy
+70,21,gambit-vs-natus-vincere-m3-mirage,de_mirage,328541,336030,352135,352135,7,13,T,NAVI,Gambit,TargetBombed,7800,Half Buy,26650,Full Buy
+71,22,gambit-vs-natus-vincere-m3-mirage,de_mirage,352775,355335,364902,364903,8,13,CT,Gambit,NAVI,CTWin,27550,Full Buy,26650,Full Buy
+72,23,gambit-vs-natus-vincere-m3-mirage,de_mirage,365543,372933,388577,388577,8,14,T,NAVI,Gambit,TargetBombed,26750,Full Buy,25800,Full Buy
+73,24,gambit-vs-natus-vincere-m3-mirage,de_mirage,389217,391777,401109,401109,9,14,CT,Gambit,NAVI,CTWin,10400,Half Buy,26950,Full Buy
+74,25,gambit-vs-natus-vincere-m3-mirage,de_mirage,401749,409732,421932,421932,9,15,T,NAVI,Gambit,TargetBombed,31650,Full Buy,14500,Half Buy
+75,26,gambit-vs-natus-vincere-m3-mirage,de_mirage,422572,425132,437548,437548,10,15,T,NAVI,Gambit,TerroristsWin,30700,Full Buy,23900,Full Buy
+76,27,gambit-vs-natus-vincere-m3-mirage,de_mirage,438188,445676,456915,456915,11,15,T,NAVI,Gambit,TerroristsWin,5750,Eco,23150,Full Buy
+77,28,gambit-vs-natus-vincere-m3-mirage,de_mirage,457555,460115,478681,478681,12,15,T,NAVI,Gambit,TargetBombed,28900,Full Buy,27550,Full Buy
+78,29,gambit-vs-natus-vincere-m3-mirage,de_mirage,479321,495154,495154,509875,13,15,CT,Gambit,NAVI,CTWin,13350,Half Buy,28050,Full Buy
+79,1,heroic-vs-natus-vincere-m1-mirage,de_mirage,0,0,1150,1155,0,0,CT,HEROIC,NAVI,TargetSaved,178150,Pistol,101600,Pistol
+80,2,heroic-vs-natus-vincere-m1-mirage,de_mirage,13460,16020,28529,28535,0,1,CT,HEROIC,NAVI,CTWin,20700,Half Buy,3900,Eco
+81,3,heroic-vs-natus-vincere-m1-mirage,de_mirage,29170,31730,42712,42717,0,2,T,NAVI,HEROIC,TargetBombed,24500,Full Buy,20300,Full Buy
+82,4,heroic-vs-natus-vincere-m1-mirage,de_mirage,43352,45912,60783,60789,1,2,T,NAVI,HEROIC,TerroristsWin,21900,Half Buy,25800,Full Buy
+83,5,heroic-vs-natus-vincere-m1-mirage,de_mirage,61424,63984,67107,67112,2,2,T,NAVI,HEROIC,TerroristsWin,1200,Full Eco,24900,Full Buy
+84,6,heroic-vs-natus-vincere-m1-mirage,de_mirage,67747,70307,84397,84404,3,2,CT,HEROIC,NAVI,CTWin,24550,Full Buy,25300,Full Buy
+85,7,heroic-vs-natus-vincere-m1-mirage,de_mirage,85039,92570,112105,112110,3,3,T,NAVI,HEROIC,TargetBombed,26800,Full Buy,26750,Full Buy
+86,8,heroic-vs-natus-vincere-m1-mirage,de_mirage,112745,115305,122413,122419,4,3,CT,HEROIC,NAVI,CTWin,7300,Half Buy,26250,Full Buy
+87,9,heroic-vs-natus-vincere-m1-mirage,de_mirage,123054,125614,139962,139967,4,4,CT,HEROIC,NAVI,CTWin,32050,Full Buy,12500,Half Buy
+88,10,heroic-vs-natus-vincere-m1-mirage,de_mirage,140602,143162,160093,160098,4,5,T,NAVI,HEROIC,TerroristsWin,31600,Full Buy,2300,Eco
+89,11,heroic-vs-natus-vincere-m1-mirage,de_mirage,160733,163293,167242,167247,5,5,T,NAVI,HEROIC,TerroristsWin,1000,Full Eco,26300,Full Buy
+90,12,heroic-vs-natus-vincere-m1-mirage,de_mirage,167882,170442,181112,181118,6,5,CT,HEROIC,NAVI,CTWin,25950,Full Buy,29050,Full Buy
+91,13,heroic-vs-natus-vincere-m1-mirage,de_mirage,181753,189121,195717,195723,6,6,CT,HEROIC,NAVI,CTWin,31600,Full Buy,23450,Full Buy
+92,14,heroic-vs-natus-vincere-m1-mirage,de_mirage,196358,198918,211603,211608,6,7,T,NAVI,HEROIC,TargetBombed,34350,Full Buy,3300,Eco
+93,15,heroic-vs-natus-vincere-m1-mirage,de_mirage,212243,214803,226009,225630,7,7,CT,HEROIC,NAVI,BombDefused,31950,Full Buy,27950,Full Buy
+94,16,heroic-vs-natus-vincere-m1-mirage,de_mirage,226265,253773,264573,264579,8,7,T,HEROIC,NAVI,TerroristsWin,4400,Pistol,4250,Pistol
+95,17,heroic-vs-natus-vincere-m1-mirage,de_mirage,265214,267774,276922,276927,9,7,T,HEROIC,NAVI,TerroristsWin,10900,Half Buy,21450,Full Buy
+96,18,heroic-vs-natus-vincere-m1-mirage,de_mirage,277562,280122,290454,290459,10,7,T,HEROIC,NAVI,TargetBombed,3700,Eco,24650,Full Buy
+97,19,heroic-vs-natus-vincere-m1-mirage,de_mirage,291094,293654,302579,302584,11,7,T,HEROIC,NAVI,TargetBombed,28200,Full Buy,22900,Full Buy
+98,20,heroic-vs-natus-vincere-m1-mirage,de_mirage,303219,305779,321605,321610,12,7,CT,NAVI,HEROIC,BombDefused,29350,Full Buy,25700,Full Buy
+99,21,heroic-vs-natus-vincere-m1-mirage,de_mirage,322245,324805,331400,331405,12,8,CT,NAVI,HEROIC,CTWin,26150,Full Buy,26250,Full Buy
+100,22,heroic-vs-natus-vincere-m1-mirage,de_mirage,332040,334600,348579,348585,12,9,T,HEROIC,NAVI,TerroristsWin,30950,Full Buy,27350,Full Buy
+101,23,heroic-vs-natus-vincere-m1-mirage,de_mirage,349220,356633,368852,368857,13,9,CT,NAVI,HEROIC,CTWin,3200,Eco,26400,Full Buy
+102,24,heroic-vs-natus-vincere-m1-mirage,de_mirage,369492,372052,387703,387709,13,10,T,HEROIC,NAVI,TerroristsWin,30300,Full Buy,16550,Half Buy
+103,25,heroic-vs-natus-vincere-m1-mirage,de_mirage,388344,390904,405624,405629,14,10,CT,NAVI,HEROIC,TargetSaved,23050,Full Buy,27850,Full Buy
+104,26,heroic-vs-natus-vincere-m1-mirage,de_mirage,406264,408824,423288,423293,14,11,T,HEROIC,NAVI,TerroristsWin,29150,Full Buy,22700,Full Buy
+105,27,heroic-vs-natus-vincere-m1-mirage,de_mirage,423928,439468,439468,454194,15,11,T,HEROIC,NAVI,TerroristsWin,15350,Half Buy,27950,Full Buy
+106,1,mousesports-vs-faze-m1-mirage,de_mirage,1150,7798,11794,11794,0,0,CT,mousesports,FaZe Clan,CTWin,4300,Pistol,4400,Pistol
+107,2,mousesports-vs-faze-m1-mirage,de_mirage,12434,14994,31198,31198,0,1,CT,mousesports,FaZe Clan,BombDefused,21450,Half Buy,11000,Half Buy
+108,3,mousesports-vs-faze-m1-mirage,de_mirage,52379,70776,85496,85496,0,2,CT,mousesports,FaZe Clan,TargetSaved,22800,Full Buy,8600,Half Buy
+109,4,mousesports-vs-faze-m1-mirage,de_mirage,86136,88696,102076,102075,0,3,T,FaZe Clan,mousesports,TerroristsWin,23550,Full Buy,23400,Full Buy
+110,5,mousesports-vs-faze-m1-mirage,de_mirage,102715,105275,114743,114743,1,3,T,FaZe Clan,mousesports,TargetBombed,8950,Half Buy,27050,Full Buy
+111,6,mousesports-vs-faze-m1-mirage,de_mirage,115383,117943,129481,129481,2,3,T,FaZe Clan,mousesports,TargetBombed,3850,Eco,27950,Full Buy
+112,7,mousesports-vs-faze-m1-mirage,de_mirage,130121,132681,147487,147487,3,3,T,FaZe Clan,mousesports,TargetBombed,25300,Full Buy,27750,Full Buy
+113,8,mousesports-vs-faze-m1-mirage,de_mirage,148127,150687,160772,160773,4,3,T,FaZe Clan,mousesports,TerroristsWin,9400,Half Buy,27650,Full Buy
+114,9,mousesports-vs-faze-m1-mirage,de_mirage,161413,169089,184199,184199,5,3,CT,mousesports,FaZe Clan,BombDefused,29450,Full Buy,27250,Full Buy
+115,10,mousesports-vs-faze-m1-mirage,de_mirage,184839,187399,194614,194614,5,4,CT,mousesports,FaZe Clan,CTWin,30750,Full Buy,26950,Full Buy
+116,11,mousesports-vs-faze-m1-mirage,de_mirage,195254,197814,207396,207398,5,5,CT,mousesports,FaZe Clan,CTWin,32250,Full Buy,4450,Eco
+117,12,mousesports-vs-faze-m1-mirage,de_mirage,208038,210598,228753,228753,5,6,T,FaZe Clan,mousesports,TargetBombed,32500,Full Buy,26550,Full Buy
+118,13,mousesports-vs-faze-m1-mirage,de_mirage,229393,231953,249253,249253,6,6,T,FaZe Clan,mousesports,TargetBombed,31100,Full Buy,27650,Full Buy
+119,14,mousesports-vs-faze-m1-mirage,de_mirage,249893,252453,264804,264804,7,6,CT,mousesports,FaZe Clan,BombDefused,30750,Full Buy,27250,Full Buy
+120,15,mousesports-vs-faze-m1-mirage,de_mirage,265444,268004,278728,278344,7,7,T,FaZe Clan,mousesports,TerroristsWin,34800,Full Buy,24350,Full Buy
+121,16,mousesports-vs-faze-m1-mirage,de_mirage,278984,304672,316442,316442,7,8,CT,FaZe Clan,mousesports,CTWin,4350,Pistol,4300,Pistol
+122,17,mousesports-vs-faze-m1-mirage,de_mirage,317082,319642,332578,332578,7,9,CT,FaZe Clan,mousesports,CTWin,20950,Half Buy,10400,Half Buy
+123,18,mousesports-vs-faze-m1-mirage,de_mirage,333218,335778,353226,353226,7,10,CT,FaZe Clan,mousesports,BombDefused,24550,Full Buy,4800,Eco
+124,19,mousesports-vs-faze-m1-mirage,de_mirage,353866,356426,369100,369100,7,11,CT,FaZe Clan,mousesports,CTWin,30150,Full Buy,26650,Full Buy
+125,20,mousesports-vs-faze-m1-mirage,de_mirage,369740,372300,384163,384163,7,12,CT,FaZe Clan,mousesports,CTWin,27300,Full Buy,21550,Full Buy
+126,21,mousesports-vs-faze-m1-mirage,de_mirage,384803,393586,402468,402468,7,13,CT,FaZe Clan,mousesports,CTWin,28400,Full Buy,8950,Half Buy
+127,22,mousesports-vs-faze-m1-mirage,de_mirage,403108,405668,417825,417825,7,14,CT,FaZe Clan,mousesports,CTWin,29550,Full Buy,26650,Full Buy
+128,23,mousesports-vs-faze-m1-mirage,de_mirage,418465,425099,425099,439820,7,15,CT,FaZe Clan,mousesports,CTWin,31550,Full Buy,21100,Full Buy
+129,1,spirit-vs-g2-mirage,de_mirage,1150,3710,13994,13997,0,0,CT,Team Spirit,G2 Esports,CTWin,4300,Pistol,4450,Pistol
+130,2,spirit-vs-g2-mirage,de_mirage,14637,17197,25959,25960,0,1,CT,Team Spirit,G2 Esports,CTWin,22100,Full Buy,1000,Full Eco
+131,3,spirit-vs-g2-mirage,de_mirage,26600,29160,46584,46584,0,2,T,G2 Esports,Team Spirit,TerroristsWin,25550,Full Buy,23100,Full Buy
+132,4,spirit-vs-g2-mirage,de_mirage,47224,49784,64897,64897,1,2,T,G2 Esports,Team Spirit,TerroristsWin,20350,Half Buy,25000,Full Buy
+133,5,spirit-vs-g2-mirage,de_mirage,65537,68097,80042,80043,2,2,T,G2 Esports,Team Spirit,TerroristsWin,1800,Full Eco,21800,Full Buy
+134,6,spirit-vs-g2-mirage,de_mirage,80683,83243,100710,100710,3,2,T,G2 Esports,Team Spirit,TargetBombed,23000,Full Buy,25800,Full Buy
+135,7,spirit-vs-g2-mirage,de_mirage,101350,108070,119186,119186,4,2,T,G2 Esports,Team Spirit,TargetBombed,8850,Half Buy,27450,Full Buy
+136,8,spirit-vs-g2-mirage,de_mirage,119826,122386,134184,134184,5,2,T,G2 Esports,Team Spirit,TerroristsWin,29300,Full Buy,27350,Full Buy
+137,9,spirit-vs-g2-mirage,de_mirage,134824,137384,150582,150582,6,2,CT,Team Spirit,G2 Esports,CTWin,11850,Half Buy,27950,Full Buy
+138,10,spirit-vs-g2-mirage,de_mirage,151222,159437,177935,177935,6,3,T,G2 Esports,Team Spirit,TargetBombed,30450,Full Buy,26650,Full Buy
+139,11,spirit-vs-g2-mirage,de_mirage,178575,193670,205911,205911,7,3,CT,Team Spirit,G2 Esports,CTWin,27600,Full Buy,27050,Full Buy
+140,12,spirit-vs-g2-mirage,de_mirage,206551,209111,222810,222811,7,4,CT,Team Spirit,G2 Esports,CTWin,30550,Full Buy,22250,Full Buy
+141,13,spirit-vs-g2-mirage,de_mirage,223451,226011,236746,236749,7,5,CT,Team Spirit,G2 Esports,CTWin,30850,Full Buy,1300,Full Eco
+142,14,spirit-vs-g2-mirage,de_mirage,237389,239949,248240,248241,7,6,CT,Team Spirit,G2 Esports,CTWin,30800,Full Buy,23550,Full Buy
+143,15,spirit-vs-g2-mirage,de_mirage,248881,251441,262892,262508,7,7,T,G2 Esports,Team Spirit,TerroristsWin,36150,Full Buy,15850,Half Buy
+144,16,spirit-vs-g2-mirage,de_mirage,263148,290408,298563,298565,7,8,T,Team Spirit,G2 Esports,TerroristsWin,4300,Pistol,4400,Pistol
+145,17,spirit-vs-g2-mirage,de_mirage,299205,301765,315520,315520,8,8,T,Team Spirit,G2 Esports,TargetBombed,9800,Half Buy,20550,Full Buy
+146,18,spirit-vs-g2-mirage,de_mirage,316160,325961,337548,337548,9,8,T,Team Spirit,G2 Esports,TargetBombed,8550,Half Buy,22650,Full Buy
+147,19,spirit-vs-g2-mirage,de_mirage,338188,340748,358404,358404,10,8,T,Team Spirit,G2 Esports,TargetBombed,30800,Full Buy,26050,Full Buy
+148,20,spirit-vs-g2-mirage,de_mirage,359044,361604,372586,372586,11,8,T,Team Spirit,G2 Esports,TerroristsWin,12050,Half Buy,27450,Full Buy
+149,21,spirit-vs-g2-mirage,de_mirage,373226,375786,386432,386433,12,8,T,Team Spirit,G2 Esports,TerroristsWin,28100,Full Buy,28250,Full Buy
+150,22,spirit-vs-g2-mirage,de_mirage,387073,393473,402302,402303,13,8,CT,G2 Esports,Team Spirit,CTWin,10000,Half Buy,27750,Full Buy
+151,23,spirit-vs-g2-mirage,de_mirage,402943,405503,418779,418781,13,9,CT,G2 Esports,Team Spirit,CTWin,32450,Full Buy,27150,Full Buy
+152,24,spirit-vs-g2-mirage,de_mirage,419421,421981,433280,433280,13,10,CT,G2 Esports,Team Spirit,CTWin,31650,Full Buy,22950,Full Buy
+153,25,spirit-vs-g2-mirage,de_mirage,433920,436480,448887,448888,13,11,CT,G2 Esports,Team Spirit,CTWin,32800,Full Buy,6050,Half Buy
+154,26,spirit-vs-g2-mirage,de_mirage,449528,452088,470033,470033,13,12,T,Team Spirit,G2 Esports,TargetBombed,31300,Full Buy,25050,Full Buy
+155,27,spirit-vs-g2-mirage,de_mirage,470673,473233,483179,483179,14,12,CT,G2 Esports,Team Spirit,CTWin,26400,Full Buy,28300,Full Buy
+156,28,spirit-vs-g2-mirage,de_mirage,483819,486379,505281,505281,14,13,CT,G2 Esports,Team Spirit,BombDefused,29150,Full Buy,25250,Full Buy
+157,29,spirit-vs-g2-mirage,de_mirage,505921,508481,522214,522215,14,14,CT,G2 Esports,Team Spirit,CTWin,23550,Full Buy,26450,Full Buy
+158,30,spirit-vs-g2-mirage,de_mirage,522855,525415,539280,538896,14,15,T,Team Spirit,G2 Esports,TerroristsWin,29650,Full Buy,21900,Full Buy
+159,31,spirit-vs-g2-mirage,de_mirage,539536,565641,577334,577334,15,15,CT,G2 Esports,Team Spirit,CTWin,31850,Full Buy,27550,Full Buy
+160,32,spirit-vs-g2-mirage,de_mirage,577974,580534,596863,596863,15,16,CT,G2 Esports,Team Spirit,BombDefused,33150,Full Buy,28350,Full Buy
+161,33,spirit-vs-g2-mirage,de_mirage,597503,600063,614657,614273,15,17,CT,G2 Esports,Team Spirit,BombDefused,33750,Full Buy,34700,Full Buy
+162,34,spirit-vs-g2-mirage,de_mirage,614913,617824,623686,623685,15,18,CT,Team Spirit,G2 Esports,CTWin,33450,Full Buy,28050,Full Buy
+163,35,spirit-vs-g2-mirage,de_mirage,624325,641490,641490,656211,15,19,T,G2 Esports,Team Spirit,TerroristsWin,33050,Full Buy,28050,Full Buy
+164,1,vitality-vs-big-m1-mirage,de_mirage,0,0,1150,1150,0,0,CT,Team Vitality,BIG,TargetSaved,122400,Pistol,339750,Pistol
+165,2,vitality-vs-big-m1-mirage,de_mirage,17714,20274,29853,29853,0,1,T,BIG,Team Vitality,TargetBombed,10600,Half Buy,20100,Full Buy
+166,3,vitality-vs-big-m1-mirage,de_mirage,30493,33053,38837,38837,1,1,T,BIG,Team Vitality,TerroristsWin,6300,Half Buy,20300,Full Buy
+167,4,vitality-vs-big-m1-mirage,de_mirage,39477,42037,51953,51952,2,1,CT,Team Vitality,BIG,CTWin,28100,Full Buy,27700,Full Buy
+168,5,vitality-vs-big-m1-mirage,de_mirage,52592,60154,69317,69318,2,2,CT,Team Vitality,BIG,CTWin,28550,Full Buy,21300,Full Buy
+169,6,vitality-vs-big-m1-mirage,de_mirage,69958,72518,78707,78707,2,3,CT,Team Vitality,BIG,CTWin,30050,Full Buy,1000,Full Eco
+170,7,vitality-vs-big-m1-mirage,de_mirage,79347,81907,88211,88211,2,4,CT,Team Vitality,BIG,CTWin,30850,Full Buy,15350,Half Buy
+171,8,vitality-vs-big-m1-mirage,de_mirage,88851,91411,101635,101635,2,5,CT,Team Vitality,BIG,CTWin,32400,Full Buy,23700,Full Buy
+172,9,vitality-vs-big-m1-mirage,de_mirage,102275,104835,110784,110784,2,6,CT,Team Vitality,BIG,CTWin,32550,Full Buy,9550,Half Buy
+173,10,vitality-vs-big-m1-mirage,de_mirage,111424,113984,126433,126434,2,7,CT,Team Vitality,BIG,CTWin,34600,Full Buy,25700,Full Buy
+174,11,vitality-vs-big-m1-mirage,de_mirage,127074,133575,138367,138369,2,8,CT,Team Vitality,BIG,CTWin,33200,Full Buy,11250,Half Buy
+175,12,vitality-vs-big-m1-mirage,de_mirage,139009,141569,150124,150124,2,9,T,BIG,Team Vitality,TerroristsWin,34500,Full Buy,26100,Full Buy
+176,13,vitality-vs-big-m1-mirage,de_mirage,150764,153324,166405,166405,3,9,T,BIG,Team Vitality,TargetBombed,32400,Full Buy,26450,Full Buy
+177,14,vitality-vs-big-m1-mirage,de_mirage,167045,173870,190659,190659,4,9,CT,Team Vitality,BIG,BombDefused,30450,Full Buy,26050,Full Buy
+178,15,vitality-vs-big-m1-mirage,de_mirage,191299,193859,207685,207301,4,10,CT,Team Vitality,BIG,CTWin,33550,Full Buy,28750,Full Buy
+179,16,vitality-vs-big-m1-mirage,de_mirage,207941,234276,239377,239377,11,4,CT,BIG,Team Vitality,CTWin,4400,Pistol,4400,Pistol
+180,17,vitality-vs-big-m1-mirage,de_mirage,240017,242577,254808,254808,11,5,T,Team Vitality,BIG,TerroristsWin,19050,Half Buy,11900,Half Buy
+181,18,vitality-vs-big-m1-mirage,de_mirage,255448,258008,272404,272404,12,5,CT,BIG,Team Vitality,BombDefused,9750,Half Buy,21400,Full Buy
+182,19,vitality-vs-big-m1-mirage,de_mirage,273044,275604,289054,289054,12,6,T,Team Vitality,BIG,TargetBombed,24850,Full Buy,14000,Half Buy
+183,20,vitality-vs-big-m1-mirage,de_mirage,289694,292254,305188,305188,13,6,T,Team Vitality,BIG,TargetBombed,6000,Half Buy,24050,Full Buy
+184,21,vitality-vs-big-m1-mirage,de_mirage,305828,308388,320153,320153,14,6,CT,BIG,Team Vitality,CTWin,26500,Full Buy,23200,Full Buy
+185,22,vitality-vs-big-m1-mirage,de_mirage,320793,323353,336125,336124,14,7,T,Team Vitality,BIG,TerroristsWin,29350,Full Buy,25250,Full Buy
+186,23,vitality-vs-big-m1-mirage,de_mirage,336764,344021,350978,350980,15,7,T,Team Vitality,BIG,TerroristsWin,16350,Half Buy,25200,Full Buy
+187,24,vitality-vs-big-m1-mirage,de_mirage,351620,354180,366744,366745,16,7,CT,BIG,Team Vitality,CTWin,11650,Half Buy,25600,Full Buy
+188,25,vitality-vs-big-m1-mirage,de_mirage,367385,374985,389934,389934,16,8,CT,BIG,Team Vitality,BombDefused,24750,Full Buy,21100,Full Buy
+189,26,vitality-vs-big-m1-mirage,de_mirage,390574,393134,398450,398450,16,9,CT,BIG,Team Vitality,CTWin,25550,Full Buy,7850,Half Buy
+190,27,vitality-vs-big-m1-mirage,de_mirage,399090,410404,410404,425125,16,10,T,Team Vitality,BIG,TerroristsWin,33650,Full Buy,21400,Full Buy
